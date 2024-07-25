@@ -1,0 +1,43 @@
+{
+  "tab_size": 2,
+  "ui_font_size": 16,
+  "buffer_font_size": 16,
+
+  "buffer_font_weight": 600,
+
+  "format_on_save": "on",
+  "current_line_highlight": "gutter",
+  "confirm_quit": true,
+
+  "theme": {
+    "mode": "system",
+    "light": "Min Dark",
+    "dark": "Tokyo Night"
+  },
+
+  "toolbar": {
+    "breadcrumbs": true,
+    "quick_actions": false
+  },
+
+  "autosave": {
+    "after_delay": {
+      "milliseconds": 1000
+    }
+  },
+
+  "inline_completions": {
+    "disabled_globs": [".json", ".env"]
+  },
+
+  "tabs": {
+    "close_position": "right",
+    "file_icons": true,
+    "git_status": true
+  },
+
+  "indent_guides": {
+    "enabled": true,
+    "coloring": "indent_aware"
+  }
+}
